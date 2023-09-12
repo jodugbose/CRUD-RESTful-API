@@ -1,0 +1,1 @@
+INSERT INTO customers (id,date_joined,full_name,phone_number) VALUES (4, "Irene Sogo","098327429923","12/12/2013")
